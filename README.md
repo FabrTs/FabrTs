@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Fabricio Torres 👋 </h1>
+<h1 align="center"> Hi there, I'm Fabricio Torres 👋🏀 </h1>
 
 ### I seek to apply my knowledge in programming languages, application development, informatic systems and management in advanced technology environments. I am passionate about statistical analysis, machine learning, and data-driven decision making.
 <!-- **FabrTs/FabrTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
