@@ -1,9 +1,10 @@
-## Hi there, I'm Fabricio Torres 👋 
+<h1 align="center"> Hi there, I'm Fabricio Torres 👋 </h1>
 
-
+### I seek to apply my knowledge in programming languages, application development, informatic systems and management in advanced technology environments. I am passionate about statistical analysis, machine learning, and data-driven decision making.
 <!-- **FabrTs/FabrTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+## 💻 Tecnologies
 ![Static Badge](https://img.shields.io/badge/Python(numpy%2C%20pandas%2C%20Scikit--learn)-2249cb?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/machine%20learning-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/data%20science-f7db2f?style=for-the-badge)
@@ -13,7 +14,7 @@ Here are some ideas to get you started: -->
 
 
 
-### I seek to apply my knowledge in programming languages, application development, informatic systems and management in advanced technology environments. I am passionate about statistical analysis, machine learning, and data-driven decision making.
+## 👨‍💻 About me
 
 - 🔭 I’m currently working on a Data Science Bootcamp at TripleTen
 - 🌱 I’m currently learning Data Science (Machine Learning | Python | SQL | Data Visualization | Statistical Analysis)
