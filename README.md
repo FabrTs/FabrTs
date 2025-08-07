@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Data Science (Machine Learning | Python | SQL | Data Visualization | Statistical Analysis)
 - 🤔 My dream job would be to manage and analyze big data for a healthcare company.
 - 💬 I have a background as a Biomedical engineer.
-- 📫 How to reach me: fabrts@gmail.com
+- 📫 How to reach me: fabrts@gmail.com || https://www.linkedin.com/in/fabrts/ 
 - ⚡ Fun fact: I originally come from a biomedical engineering background — now I help machines learn instead of fixing them!
 - 🥉 Bronce Medal in Mexican Informatics Olympiad 2017 (OMI 2017)
 <!-- - 👯 I’m looking to collaborate on: Open-source data science projects, machine learning challenges, or any backend development projects where I can contribute with Python or Java. -->
