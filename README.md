@@ -11,6 +11,7 @@ Here are some ideas to get you started: -->
 ![Static Badge](https://img.shields.io/badge/SQL-26761f?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/javascript-912cc6?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/java-db1c24?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/POO(numpy%2C%20pandas%2C%20Scikit--learn)-2249cb?style=for-the-badge)
 
 
 
