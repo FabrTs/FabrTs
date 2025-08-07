@@ -25,4 +25,5 @@ Here are some ideas to get you started: -->
 - 💬 I have a background as a Biomedical engineer.
 - 📫 How to reach me: fabrts@gmail.com
 - ⚡ Fun fact: I originally come from a biomedical engineering background — now I help machines learn instead of fixing them!
+- 🥉 Bronce Medal in Mexican Informatics Olympiad 2017 (OMI 2017)
 <!-- - 👯 I’m looking to collaborate on: Open-source data science projects, machine learning challenges, or any backend development projects where I can contribute with Python or Java. -->
