@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
 ![Static Badge](https://img.shields.io/badge/java-db1c24?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/POO-2249cb?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/C++-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/C#-f7db2f?style=for-the-badge)
 
 
 ## 👨‍💻 About me
